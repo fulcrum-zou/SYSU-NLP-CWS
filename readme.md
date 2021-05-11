@@ -1,6 +1,6 @@
 # SYSU-NLP-CWS
 
-An assignment from SYSU NLP course. A simple CWS task using LSTM-CRF.
+This is an assignment from SYSU Natural Language Processing course. A simple Chinese word segmentation (CWS) task using LSTM-CRF.
 
 # Environment
 
